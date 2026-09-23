@@ -1,2 +1,2 @@
-# Jagadishwaran.S
+# JagadishwaranS
 My personal GitHub profile 
